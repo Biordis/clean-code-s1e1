@@ -136,7 +136,7 @@ button {
 }
 
 .item >  .item-input {
-  width: 226px
+  width: 226px;
 }
 
 .item-remove {
@@ -157,7 +157,7 @@ button {
 
 /* Edit Task */
 .list .item-input {
-  display: none
+  display: none;
 }
 
 .list .edit .item-input {
